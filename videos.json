@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "imgs/fundovideo.jpg",
+        "name": "Curso Python #01",
+        "title": "Seja um Programador",
+        "link": "https://youtu.be/S9uPNppGsGo"
+    },
+    {
+        "id": 2,
+        "image": "imgs/fundovideo.jpg",
+        "name": "Curso Python #02",
+        "title": "Para que serve o Python?",
+        "link": "https://youtu.be/Mp0vhMDI7fA"
+    },
+    {
+        "id": 3,
+        "image": "imgs/fundovideo.jpg",
+        "name": "Curso Python #03",
+        "title": "Instalando o Python3 e o IDLE",
+        "link": "https://youtu.be/VuKvR1J2LQE"
+    },
+    {
+        "id": 4,
+        "image": "imgs/fundovideo.jpg",
+        "name": "Curso Python #04",
+        "title": "Primeiros comandos em Python3",
+        "link": "https://youtu.be/31llNGKWDdo"
+    },
+    {
+        "id": 5,
+        "image": "imgs/fundovideo.jpg",
+        "name": "Curso Python #05",
+        "title": "Instalando o PyCharm e o QPython3",
+        "link": "https://youtu.be/ElRd0cbXIv4"
+    },
+    {
+        "id": 6,
+        "image": "imgs/fundovideo.jpg",
+        "name": "Curso Python #06",
+        "title": "Tipos Primitivos e Saída de Dados",
+        "link": "https://youtu.be/hdDHg1p3YVc"
+    }
+]

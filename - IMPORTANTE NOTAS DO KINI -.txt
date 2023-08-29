@@ -1,0 +1,57 @@
+1 - Abrir o console no VSCode apertando CTRL + J e escrever:
+
+npm install -D tailwindcss
+
+DEPOIS:
+
+npx tailwindcss init
+
+2 - Iniciar o Tailwind:
+
+npx tailwindcss -i ./css/input.css -o ./css/output.css --watch
+
+adicionar depois
+
+,
+    {
+        "id": 7,
+        "image": "imgs/fundovideo.jpg",
+        "name": "Curso Python #07",
+        "title": "Operadores Aritméticos",
+        "link": "https://youtu.be/Vw6gLypRKmY"
+    },
+    {
+        "id": 8,
+        "image": "imgs/fundovideo.jpg",
+        "name": "Curso Python #08",
+        "title": "Utilizando Módulos",
+        "link": "https://youtu.be/oOUyhGNib2Q"
+    },
+    {
+        "id": 9,
+        "image": "imgs/fundovideo.jpg",
+        "name": "Curso Python #09",
+        "title": "Manipulando Texto",
+        "link": "https://youtu.be/a7DH88vk2Sk"
+    },
+    {
+        "id": 10,
+        "image": "imgs/fundovideo.jpg",
+        "name": "Curso Python #10",
+        "title": "Condições (Parte 1)",
+        "link": "https://youtu.be/K10u3XIf1-Q"
+    },
+    {
+        "id": 11,
+        "image": "imgs/fundovideo.jpg",
+        "name": "Curso Python #11",
+        "title": "Cores no Terminal",
+        "link": "https://youtu.be/0hBIhkcA8O8"
+    },
+    {
+        "id": 12,
+        "image": "imgs/fundovideo.jpg",
+        "name": "Curso Python #12",
+        "title": "Condições Aninhadas",
+        "link": "https://youtu.be/j9bYDjaAYzw"
+    }
